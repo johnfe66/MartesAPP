@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "871809044738",
+    "firebase_url": "https://martesapp.firebaseio.com",
+    "project_id": "martesapp",
+    "storage_bucket": "martesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871809044738:android:e0a2d07dff8278ac",
+        "android_client_info": {
+          "package_name": "com.johnfe.martesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871809044738-f27f3tqo3lmbc3riqufrcg5jd24moe6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johnfe.martesapp",
+            "certificate_hash": "E755F44AF3D823BAE2C0EDC3E5A45973D5D07CFC"
+          }
+        },
+        {
+          "client_id": "871809044738-ej5k20dmltduugst90aam83a8eelj3fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOJ_2hs7vZfvlavcAY-sy0Dt5Q8IEi2w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871809044738-ej5k20dmltduugst90aam83a8eelj3fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
